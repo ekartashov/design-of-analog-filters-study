@@ -46,6 +46,8 @@ distrobox enter devbox_lam_latex -- bash -c '
 
 Figures are TikZ-externalized into `cache/` (gitignored) — a cold build renders all ~120 of them once, incremental rebuilds then take minutes. The PDFs committed here are Ghostscript-optimized (~19 MB each, visually lossless); unoptimized builds are ~150 MB and are left out of the repo.
 
+**Cleaning up afterwards.** `scripts/clean.sh` removes the junk a build leaves behind (LaTeX intermediates, `latexmk` strays, the ~150 MB unoptimized PDFs) while keeping the three `_optimized.pdf` deliverables, the 2022 original and all sources; `scripts/clean.sh --deep` additionally drops the `cache/` figures.
+
 **Rebuilding the smaller documents.** The standalone working notes under `LAM/secondary/` (each folder is a tiny LaTeX document: the 8-channel plot sheet `plots/Standalone.tex`, `Q_Factor/`, `Analogue_filter_design/`, `Circuit/SensorBoard_circuit_diagram.tex`) and the KiCad print plot are *build outputs* and are not committed — regenerate them with `latexmk -lualatex -shell-escape <name>.tex` in the devbox, or re-export the plot from the KiCad project. The PDFs that **are** committed under `media/` (Maple exports, Ideasheets, PCB crops, TI app-notes) are *inputs*: the Maple worksheets did not survive, so those ten Maple PDFs are irreplaceable. The `guide/Order_*.pdf` is a JLC order record, kept as a document.
 
 ## Measurement datasets
