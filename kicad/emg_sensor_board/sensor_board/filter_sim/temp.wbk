@@ -1,0 +1,16 @@
+1
+9
+.tran 1u 40m 10m
+4
+1
+/SIG_IN
+V
+1
+/SIG_OUT
+V
+1
+Net-(C5-Pad2)
+V
+1
+Net-(R4-Pad2)
+V

@@ -1,0 +1,155 @@
+\documentclass[margin=2mm]{standalone}
+
+\usepackage{fontspec}   
+\defaultfontfeatures{Ligatures=TeX, Numbers=Lining} % OTF font features for all fonts 
+\setmainfont{Linux Libertine O}                     % Set serif (main) font 
+\setsansfont{Linux Biolinum O}                      % Set sans serif font
+\setmonofont{Inconsolata}   
+
+\usepackage{amsmath, amssymb}
+\usepackage{tikz}
+\usetikzlibrary{
+    calc,                                                % Support for coordinate operations in tikz
+    patterns,                                            %
+    positioning,                                         %
+    shapes.geometric,                                    %
+    % shapes.arrows,                                       %
+    % decorations.pathmorphing,                            %
+    % matrix,                                              %
+    % chains,                                              %
+    % scopes,                                              %
+    % arrows,                                              %
+    fit,                                                 %
+    % shadows,                                             %
+    % backgrounds                                          %
+}
+\usepackage{pgf}
+\usepackage{pgfkeys}
+\usepackage{pgfplots}
+\pgfplotsset{
+    compat=1.9,
+    samples=200,
+    clip=false,
+    axis_style_data/.style={
+        legend pos=outer north east,
+        axis line style={->},
+        legend style={font=\footnotesize},
+        label style={font=\footnotesize},
+        tick label style={font=\footnotesize},
+        xlabel style={
+            at={(ticklabel* cs:1)},
+            anchor=west,
+            font=\footnotesize,
+        },
+        ylabel style={
+            at={(ticklabel* cs:1)},
+            anchor=south,
+            font=\footnotesize,
+        },
+    },
+    axis_style_arithmetic/.style={
+        samples=1000,
+        legend pos=outer north east,
+        axis line style={->},
+        legend style={font=\footnotesize},
+        label style={font=\footnotesize},
+        tick label style={font=\footnotesize},
+        xlabel style={
+            at={(ticklabel* cs:1)},
+            anchor=west,
+            font=\footnotesize,
+        },
+        ylabel style={
+            at={(ticklabel* cs:1)},
+            anchor=south,
+            font=\footnotesize,
+        },
+    }
+}
+\tikzset{>=stealth}
+\pgfplotsset{
+    axis lines=middle,
+    xlabel=$x$,
+    ylabel=$y$,
+    no markers,
+    samples=51,
+    trig format plots=rad,
+    %
+    % create a style to scale x axis values by \pi and
+    % remove the corresponding label
+    x axis in pi/.style={
+        scaled x ticks={real:\PI},
+        xtick scale label code/.code={},
+        % in case you want to set an explicit tick distance
+        xtick distance=pi/#1,
+        % add code here for formatting the `xticklabels'
+        % I configured exceptions for \pm\pi where no number in front
+        % of these are shown and for fractional values these should be
+        % shown as fractions
+        xticklabel={%
+            % to avoid some mess with TeX precision, first
+            % round the `\tick' value to one digit after the comma
+            \pgfmathparse{round(100*\tick)/100}
+            \ifdim \pgfmathresult pt = 1pt
+                \strut$\pi$%
+            \else\ifdim \pgfmathresult pt = -1pt
+                \strut$-\pi$%
+            \else
+                % depending on whether the resulting number is an integer
+                % show it as integer only, otherwise use the style given
+                % in `xticklabel style'
+                \pgfmathifisint{\pgfmathresult}{%
+                    \strut$\pgfmathprintnumber[int detect]{\pgfmathresult}\pi$%
+                }{%
+                    % show \pi next to the frac
+                    \strut$\pgfmathprintnumber{\pgfmathresult}\pi$%
+%                        % show \pi in the numerator of the frac
+%                        \pgfmathparse{\pgfmathresult*#1}%
+%                        \strut$\frac{\pgfmathprintnumber[int detect]{\pgfmathresult}\pi}{#1}$%
+                }
+            \fi\fi
+        },
+        % set number plotting to frac style
+        xticklabel style={
+            /pgf/number format/.cd,
+                frac,
+                frac whole=false,
+%                    % if you prefer to have the same denominator value everywhere
+%                    frac denom=#1,
+        },
+    },
+}
+\pgfmathsetmacro{\PI}{pi}
+
+
+\begin{document}
+    \begin{tikzpicture}
+        \begin{axis}[
+            axis x line=middle,
+            axis y line=middle,
+            xlabel={$x$},
+            ylabel={$y$},
+            legend entries={$(a)$ $Q=0.707$, $(b)$ $Q=1$, $(c)$ $Q=3$},
+            legend pos=north east,
+            height=.4\textwidth,
+            width=.9\textwidth,
+            clip=true,
+            domain=0*pi:7*pi,
+            x axis in pi=2,
+            ytick distance=0.5,
+            xmin=0,
+            xmax=12,
+            ymin=-1.1,
+            ymax=+1.1,
+            smooth,
+            ymajorgrids=true,
+            xmajorgrids=true,
+            grid style=dashed,
+            axis_style_arithmetic
+            ]
+            \addplot [thick, color=gray]               {1.414427 * 2.71828 ^(-1.414427*x/2) * sin(0.706999 * x) };
+            \addplot [thick, color=red]              {(2/sqrt(3)) * sin(x * (sqrt(3)/2)) * (2.71828 ^(-x / 2)) };
+            \addplot [thick, color=blue]              {(6/sqrt(35)) * sin(x * (sqrt(35)/6)) * (2.71828 ^(-x / 6)) };
+        \end{axis}
+    \end{tikzpicture}
+\end{document}

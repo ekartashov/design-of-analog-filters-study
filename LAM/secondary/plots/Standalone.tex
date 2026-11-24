@@ -1,0 +1,49 @@
+\documentclass[margin=2mm]{standalone}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\usepgfplotslibrary{patchplots}
+\usepackage{import}
+\usepackage{amsmath}
+
+\begin{document} 
+    \foreach \n in {hpf_2, lpf_2, bpf_2, bpf_4}
+    {
+        \import{datasets}{\n_def.tex}%
+        \begin{tikzpicture}
+            \begin{axis}[
+                width=20cm,
+                view = {20}{30},
+                xmin = \minX,
+                xmax = \maxX,
+                ymin = \minY,
+                ymax = \maxY, 
+                zmin = \minZ,
+                zmax = \maxZ, 
+                xtick = {\minX,\nextX,...,\maxX},
+                ytick = {\minY,\nextY,...,\maxY},
+                ztick = {\minZ,\nextZ,...,\maxZ},
+                xlabel={\legendX},
+                ylabel={\legendY},
+                zlabel={\legendZ},
+                smooth,
+                grid = both,
+                ymajorgrids = true,
+                line join=round,
+                clip=false
+            ]
+            
+            \addplot3[
+                surf,
+                /pgfplots/colormap={bone}{rgb255=(0,0,0) rgb255=(84,84,116) rgb255=(167,199,199) rgb255=(240,240,240)},
+                opacity=0.9375,
+                shader=faceted interp,
+                patch type=coons,
+                z buffer=sort,
+                patch table=datasets/\n_anchors.csv
+            ] table [col sep=comma,header=false] {datasets/\n.csv};
+            \end{axis}
+        \end{tikzpicture}
+        \import{datasets}{All_plots_undef.tex}%   
+    }
+\end{document}

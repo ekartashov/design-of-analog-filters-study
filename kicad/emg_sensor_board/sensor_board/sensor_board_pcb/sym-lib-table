@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "dkcs_ADC")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_ADC.kicad_sym")(options "")(descr ""))
+  (lib (name "dkcs_Amplifier_Instrumentation")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_Amplifier_Instrumentation.kicad_sym")(options "")(descr ""))
+  (lib (name "dkcs_Amplifier_Operational")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_Amplifier_Operational.kicad_sym")(options "")(descr ""))
+  (lib (name "dkcs_Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "dkcs_Potentiometer")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_Potentiometer.kicad_sym")(options "")(descr ""))
+  (lib (name "dkcs_Reference_Voltage")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/dkcs_Reference_Voltage.kicad_sym")(options "")(descr ""))
+)

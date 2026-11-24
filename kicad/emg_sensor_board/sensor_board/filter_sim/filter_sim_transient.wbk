@@ -1,0 +1,13 @@
+1
+9
+.tran 10u 10m 0
+3
+2
+R4
+I
+1
+Net-(C1-Pad2)
+V
+1
+Net-(R4-Pad2)
+V

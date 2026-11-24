@@ -1,0 +1,3818 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="electrode_board_pcb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.88818042"
+     inkscape:cx="396.31588"
+     inkscape:cy="560.69689"
+     inkscape:window-width="3840"
+     inkscape:window-height="2092"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g18867"
+       transform="rotate(-90,97.504891,132.76417)">
+      <g
+         id="g221"
+         transform="matrix(1e-6,0,0,1e-6,53.967827,135.39789)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g119" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g139">
+          <g
+             id="g121" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g123" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g131">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path125" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path127" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path129" />
+          </g>
+          <g
+             id="g133" />
+          <g
+             id="g135" />
+          <g
+             id="g137" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g143">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle141" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g145" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g149">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle147" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g151" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g155">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle153" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g157" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g159" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g161" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g181">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path163" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path165" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path167" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path169" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path171" />
+          <g
+             id="g173" />
+          <g
+             id="g175" />
+          <g
+             id="g177" />
+          <g
+             id="g179" />
+        </g>
+      </g>
+      <g
+         id="g269"
+         transform="matrix(1e-6,0,0,1e-6,53.967827,92.478455)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g227" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g229" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g249">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path231" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path233" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path235" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path237" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path239" />
+          <g
+             id="g241" />
+          <g
+             id="g243" />
+          <g
+             id="g245" />
+          <g
+             id="g247" />
+        </g>
+      </g>
+      <g
+         id="g1046"
+         transform="matrix(1e-6,0,0,1e-6,53.967827,49.559019)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g275" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g277" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g281">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="12000000"
+             id="circle279" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g285">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="4100000"
+             id="circle283" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g289">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="16000000"
+             id="circle287" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g341">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path291" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path293" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path295" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path297" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path299" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path301" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path303" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path305" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path307" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path309" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path311" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path313" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path315" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path317" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path319" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path321" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path323" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path325" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path327" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path329" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path331" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path333" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path335" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path337" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path339" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g393">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path343" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path345" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path347" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path349" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path351" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path353" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path355" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path357" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path359" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path361" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path363" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path365" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path367" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path369" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path371" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path373" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path375" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path377" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path379" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path381" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path383" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path385" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path387" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path389" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path391" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g397">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 17050000,5000000 h -1850000 l -2600000,750000 -2100000,1100000 -1300000,900000 -1400000,1400000 -1250000,1750000 -950000,2200000 -400000,1600000 -250000,1750000 v 550000 H 1050000 l 200000,-2250000 450000,-2000000 500000,-1450000 600000,-1450000 1050000,-1800000 1250000,-1550000 1800000,-1750000 1600000,-1150000 1350000,-800000 2350000,-950000 1900000,-500000 2100000,-250000 850000,-50000 z"
+             id="path395" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g449">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path399" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path401" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path403" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path405" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path407" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path409" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path411" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path413" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path415" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path417" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path419" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path421" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path423" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path425" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path427" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path429" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path431" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path433" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path435" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path437" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path439" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path441" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path443" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path445" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path447" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g453">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 5000000,18850000 750000,2600000 1100000,2100000 900000,1300000 1400000,1400000 1750000,1250000 2200000,950000 1600000,400000 1750000,250000 h 550000 v 3900000 l -2250000,-200000 -2000000,-450000 -1450000,-500000 -1450000,-600000 -1800000,-1050000 -1550000,-1250000 -1750000,-1800000 -1150000,-1600000 -800000,-1350000 -950000,-2350000 -500000,-1900000 -250000,-2100000 -50000,-850000 h 3950000 z"
+             id="path451" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g455" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g507">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path457" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path459" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path461" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path463" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path465" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path467" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path469" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path471" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path473" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path475" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path477" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path479" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path481" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path483" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path485" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path487" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path489" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path491" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path493" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path495" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path497" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path499" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path501" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path503" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path505" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g559">
+          <path
+             d="m 28350000,12650000 750000,2600000"
+             id="path509" />
+          <path
+             d="m 29100000,15250000 v 1850000"
+             id="path511" />
+          <path
+             d="m 29100000,17100000 h 3950000"
+             id="path513" />
+          <path
+             d="m 33050000,17100000 -50000,-850000"
+             id="path515" />
+          <path
+             d="m 33000000,16250000 -250000,-2100000"
+             id="path517" />
+          <path
+             d="m 32750000,14150000 -500000,-1900000"
+             id="path519" />
+          <path
+             d="M 32250000,12250000 31300000,9900000"
+             id="path521" />
+          <path
+             d="M 31300000,9900000 30500000,8550000"
+             id="path523" />
+          <path
+             d="M 30500000,8550000 29350000,6950000"
+             id="path525" />
+          <path
+             d="M 29350000,6950000 27600000,5150000"
+             id="path527" />
+          <path
+             d="M 27600000,5150000 26050000,3900000"
+             id="path529" />
+          <path
+             d="M 26050000,3900000 24250000,2850000"
+             id="path531" />
+          <path
+             d="M 24250000,2850000 22800000,2250000"
+             id="path533" />
+          <path
+             d="M 22800000,2250000 21350000,1750000"
+             id="path535" />
+          <path
+             d="M 21350000,1750000 19350000,1300000"
+             id="path537" />
+          <path
+             d="M 19350000,1300000 17100000,1100000"
+             id="path539" />
+          <path
+             d="M 17100000,1100000 V 5000000"
+             id="path541" />
+          <path
+             d="m 17100000,5000000 h 550000"
+             id="path543" />
+          <path
+             d="m 17650000,5000000 1750000,250000"
+             id="path545" />
+          <path
+             d="m 19400000,5250000 1600000,400000"
+             id="path547" />
+          <path
+             d="m 21000000,5650000 2200000,950000"
+             id="path549" />
+          <path
+             d="m 23200000,6600000 1750000,1250000"
+             id="path551" />
+          <path
+             d="m 24950000,7850000 1400000,1400000"
+             id="path553" />
+          <path
+             d="m 26350000,9250000 900000,1300000"
+             id="path555" />
+          <path
+             d="m 27250000,10550000 1100000,2100000"
+             id="path557" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g563">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 19350000,1300000 2000000,450000 1450000,500000 1450000,600000 1800000,1050000 1550000,1250000 1750000,1800000 1150000,1600000 800000,1350000 950000,2350000 500000,1900000 250000,2100000 50000,850000 H 29100000 V 15250000 L 28350000,12650000 27250000,10550000 26350000,9250000 24950000,7850000 23200000,6600000 21000000,5650000 19400000,5250000 17650000,5000000 h -550000 V 1100000 Z"
+             id="path561" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g615">
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path565" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path567" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path569" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path571" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path573" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path575" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path577" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path579" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path581" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path583" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path585" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path587" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path589" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path591" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path593" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path595" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path597" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path599" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path601" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path603" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path605" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path607" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path609" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path611" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path613" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g619">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 32850000,19300000 -450000,2000000 -500000,1450000 -600000,1450000 -1050000,1800000 -1250000,1550000 -1800000,1750000 -1600000,1150000 -1350000,800000 -2350000,950000 -1900000,500000 -2100000,250000 -850000,50000 v -3950000 h 1850000 l 2600000,-750000 2100000,-1100000 1300000,-900000 1400000,-1400000 1250000,-1750000 950000,-2200000 400000,-1600000 250000,-1750000 v -550000 h 3900000 z"
+             id="path617" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g621" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g741">
+          <path
+             d="m 28300000,12600000 750000,2600000"
+             id="path623" />
+          <path
+             d="m 29050000,15200000 v 1850000"
+             id="path625" />
+          <path
+             d="m 29050000,17050000 h 3950000"
+             id="path627" />
+          <path
+             d="m 33000000,17050000 -50000,-850000"
+             id="path629" />
+          <path
+             d="m 32950000,16200000 -250000,-2100000"
+             id="path631" />
+          <path
+             d="m 32700000,14100000 -500000,-1900000"
+             id="path633" />
+          <path
+             d="M 32200000,12200000 31250000,9850000"
+             id="path635" />
+          <path
+             d="M 31250000,9850000 30450000,8500000"
+             id="path637" />
+          <path
+             d="M 30450000,8500000 29300000,6900000"
+             id="path639" />
+          <path
+             d="M 29300000,6900000 27550000,5100000"
+             id="path641" />
+          <path
+             d="M 27550000,5100000 26000000,3850000"
+             id="path643" />
+          <path
+             d="M 26000000,3850000 24200000,2800000"
+             id="path645" />
+          <path
+             d="M 24200000,2800000 22750000,2200000"
+             id="path647" />
+          <path
+             d="M 22750000,2200000 21300000,1700000"
+             id="path649" />
+          <path
+             d="M 21300000,1700000 19300000,1250000"
+             id="path651" />
+          <path
+             d="M 19300000,1250000 17050000,1050000"
+             id="path653" />
+          <path
+             d="M 17050000,1050000 V 4950000"
+             id="path655" />
+          <path
+             d="m 17050000,4950000 h 550000"
+             id="path657" />
+          <path
+             d="m 17600000,4950000 1750000,250000"
+             id="path659" />
+          <path
+             d="m 19350000,5200000 1600000,400000"
+             id="path661" />
+          <path
+             d="m 20950000,5600000 2200000,950000"
+             id="path663" />
+          <path
+             d="m 23150000,6550000 1750000,1250000"
+             id="path665" />
+          <path
+             d="m 24900000,7800000 1400000,1400000"
+             id="path667" />
+          <path
+             d="m 26300000,9200000 900000,1300000"
+             id="path669" />
+          <path
+             d="m 27200000,10500000 1100000,2100000"
+             id="path671" />
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path673" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path675" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path677" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path679" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path681" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path683" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path685" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path687" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path689" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path691" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path693" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path695" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path697" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path699" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path701" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path703" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path705" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path707" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path709" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path711" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path713" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path715" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path717" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path719" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path721" />
+          <g
+             id="g723" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g725" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g733">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path727" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path729" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path731" />
+          </g>
+          <g
+             id="g735" />
+          <g
+             id="g737" />
+          <g
+             id="g739" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g745">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle743" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g747" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g751">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle749" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g753" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g757">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle755" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g759" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g761" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g763" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g783">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path765" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path767" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path769" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path771" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path773" />
+          <g
+             id="g775" />
+          <g
+             id="g777" />
+          <g
+             id="g779" />
+          <g
+             id="g781" />
+        </g>
+      </g>
+      <g
+         id="g221-3"
+         transform="matrix(1e-6,0,0,1e-6,96.887263,135.39789)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g119-6" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g139-7">
+          <g
+             id="g121-5" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g123-3" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g131-5">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path125-6" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path127-2" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path129-9" />
+          </g>
+          <g
+             id="g133-1" />
+          <g
+             id="g135-2" />
+          <g
+             id="g137-7" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g143-0">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle141-9" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g145-3" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g149-6">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle147-0" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g151-6" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g155-2">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle153-6" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g157-1" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g159-8" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g161-7" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g181-9">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path163-2" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path165-0" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path167-2" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path169-3" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path171-7" />
+          <g
+             id="g173-5" />
+          <g
+             id="g175-9" />
+          <g
+             id="g177-2" />
+          <g
+             id="g179-2" />
+        </g>
+      </g>
+      <g
+         id="g269-8"
+         transform="matrix(1e-6,0,0,1e-6,96.887263,92.478455)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g227-9" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g229-7" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g249-3">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path231-6" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path233-1" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path235-2" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path237-9" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path239-3" />
+          <g
+             id="g241-1" />
+          <g
+             id="g243-9" />
+          <g
+             id="g245-4" />
+          <g
+             id="g247-7" />
+        </g>
+      </g>
+      <g
+         id="g1046-8"
+         transform="matrix(1e-6,0,0,1e-6,96.887263,49.559019)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g275-4" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g277-5" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g281-0">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="12000000"
+             id="circle279-3" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g285-6">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="4100000"
+             id="circle283-1" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g289-0">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="16000000"
+             id="circle287-6" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g341-3">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path291-2" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path293-0" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path295-6" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path297-1" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path299-5" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path301-5" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path303-4" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path305-7" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path307-6" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path309-5" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path311-6" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path313-9" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path315-3" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path317-7" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path319-4" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path321-5" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path323-2" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path325-5" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path327-4" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path329-7" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path331-4" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path333-4" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path335-3" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path337-0" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path339-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g393-8">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path343-6" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path345-8" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path347-8" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path349-4" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path351-3" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path353-1" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path355-4" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path357-9" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path359-2" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path361-0" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path363-6" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path365-8" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path367-9" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path369-2" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path371-6" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path373-6" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path375-4" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path377-9" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path379-5" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path381-0" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path383-4" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path385-8" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path387-7" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path389-1" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path391-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g397-2">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 17050000,5000000 h -1850000 l -2600000,750000 -2100000,1100000 -1300000,900000 -1400000,1400000 -1250000,1750000 -950000,2200000 -400000,1600000 -250000,1750000 v 550000 H 1050000 l 200000,-2250000 450000,-2000000 500000,-1450000 600000,-1450000 1050000,-1800000 1250000,-1550000 1800000,-1750000 1600000,-1150000 1350000,-800000 2350000,-950000 1900000,-500000 2100000,-250000 850000,-50000 z"
+             id="path395-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g449-2">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path399-2" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path401-6" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path403-1" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path405-0" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path407-6" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path409-1" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path411-5" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path413-9" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path415-4" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path417-9" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path419-0" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path421-9" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path423-1" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path425-7" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path427-7" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path429-1" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path431-1" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path433-5" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path435-9" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path437-7" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path439-7" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path441-6" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path443-7" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path445-3" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path447-6" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g453-5">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 5000000,18850000 750000,2600000 1100000,2100000 900000,1300000 1400000,1400000 1750000,1250000 2200000,950000 1600000,400000 1750000,250000 h 550000 v 3900000 l -2250000,-200000 -2000000,-450000 -1450000,-500000 -1450000,-600000 -1800000,-1050000 -1550000,-1250000 -1750000,-1800000 -1150000,-1600000 -800000,-1350000 -950000,-2350000 -500000,-1900000 -250000,-2100000 -50000,-850000 h 3950000 z"
+             id="path451-6" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g455-3" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g507-9">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path457-4" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path459-8" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path461-1" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path463-2" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path465-9" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path467-3" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path469-9" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path471-0" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path473-8" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path475-8" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path477-5" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path479-0" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path481-9" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path483-6" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path485-3" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path487-8" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path489-5" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path491-6" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path493-1" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path495-1" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path497-5" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path499-9" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path501-8" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path503-4" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path505-8" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g559-1">
+          <path
+             d="m 28350000,12650000 750000,2600000"
+             id="path509-0" />
+          <path
+             d="m 29100000,15250000 v 1850000"
+             id="path511-3" />
+          <path
+             d="m 29100000,17100000 h 3950000"
+             id="path513-0" />
+          <path
+             d="m 33050000,17100000 -50000,-850000"
+             id="path515-4" />
+          <path
+             d="m 33000000,16250000 -250000,-2100000"
+             id="path517-4" />
+          <path
+             d="m 32750000,14150000 -500000,-1900000"
+             id="path519-4" />
+          <path
+             d="M 32250000,12250000 31300000,9900000"
+             id="path521-4" />
+          <path
+             d="M 31300000,9900000 30500000,8550000"
+             id="path523-7" />
+          <path
+             d="M 30500000,8550000 29350000,6950000"
+             id="path525-6" />
+          <path
+             d="M 29350000,6950000 27600000,5150000"
+             id="path527-3" />
+          <path
+             d="M 27600000,5150000 26050000,3900000"
+             id="path529-1" />
+          <path
+             d="M 26050000,3900000 24250000,2850000"
+             id="path531-7" />
+          <path
+             d="M 24250000,2850000 22800000,2250000"
+             id="path533-5" />
+          <path
+             d="M 22800000,2250000 21350000,1750000"
+             id="path535-9" />
+          <path
+             d="M 21350000,1750000 19350000,1300000"
+             id="path537-6" />
+          <path
+             d="M 19350000,1300000 17100000,1100000"
+             id="path539-2" />
+          <path
+             d="M 17100000,1100000 V 5000000"
+             id="path541-1" />
+          <path
+             d="m 17100000,5000000 h 550000"
+             id="path543-7" />
+          <path
+             d="m 17650000,5000000 1750000,250000"
+             id="path545-8" />
+          <path
+             d="m 19400000,5250000 1600000,400000"
+             id="path547-5" />
+          <path
+             d="m 21000000,5650000 2200000,950000"
+             id="path549-7" />
+          <path
+             d="m 23200000,6600000 1750000,1250000"
+             id="path551-4" />
+          <path
+             d="m 24950000,7850000 1400000,1400000"
+             id="path553-1" />
+          <path
+             d="m 26350000,9250000 900000,1300000"
+             id="path555-8" />
+          <path
+             d="m 27250000,10550000 1100000,2100000"
+             id="path557-5" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g563-9">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 19350000,1300000 2000000,450000 1450000,500000 1450000,600000 1800000,1050000 1550000,1250000 1750000,1800000 1150000,1600000 800000,1350000 950000,2350000 500000,1900000 250000,2100000 50000,850000 H 29100000 V 15250000 L 28350000,12650000 27250000,10550000 26350000,9250000 24950000,7850000 23200000,6600000 21000000,5650000 19400000,5250000 17650000,5000000 h -550000 V 1100000 Z"
+             id="path561-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g615-5">
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path565-3" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path567-8" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path569-8" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path571-3" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path573-1" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path575-8" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path577-9" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path579-6" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path581-4" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path583-3" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path585-3" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path587-3" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path589-8" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path591-6" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path593-0" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path595-4" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path597-8" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path599-8" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path601-8" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path603-9" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path605-7" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path607-7" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path609-6" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path611-4" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path613-3" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g619-0">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 32850000,19300000 -450000,2000000 -500000,1450000 -600000,1450000 -1050000,1800000 -1250000,1550000 -1800000,1750000 -1600000,1150000 -1350000,800000 -2350000,950000 -1900000,500000 -2100000,250000 -850000,50000 v -3950000 h 1850000 l 2600000,-750000 2100000,-1100000 1300000,-900000 1400000,-1400000 1250000,-1750000 950000,-2200000 400000,-1600000 250000,-1750000 v -550000 h 3900000 z"
+             id="path617-3" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g621-0" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g741-9">
+          <path
+             d="m 28300000,12600000 750000,2600000"
+             id="path623-2" />
+          <path
+             d="m 29050000,15200000 v 1850000"
+             id="path625-5" />
+          <path
+             d="m 29050000,17050000 h 3950000"
+             id="path627-4" />
+          <path
+             d="m 33000000,17050000 -50000,-850000"
+             id="path629-0" />
+          <path
+             d="m 32950000,16200000 -250000,-2100000"
+             id="path631-5" />
+          <path
+             d="m 32700000,14100000 -500000,-1900000"
+             id="path633-9" />
+          <path
+             d="M 32200000,12200000 31250000,9850000"
+             id="path635-4" />
+          <path
+             d="M 31250000,9850000 30450000,8500000"
+             id="path637-6" />
+          <path
+             d="M 30450000,8500000 29300000,6900000"
+             id="path639-9" />
+          <path
+             d="M 29300000,6900000 27550000,5100000"
+             id="path641-2" />
+          <path
+             d="M 27550000,5100000 26000000,3850000"
+             id="path643-2" />
+          <path
+             d="M 26000000,3850000 24200000,2800000"
+             id="path645-4" />
+          <path
+             d="M 24200000,2800000 22750000,2200000"
+             id="path647-7" />
+          <path
+             d="M 22750000,2200000 21300000,1700000"
+             id="path649-7" />
+          <path
+             d="M 21300000,1700000 19300000,1250000"
+             id="path651-5" />
+          <path
+             d="M 19300000,1250000 17050000,1050000"
+             id="path653-4" />
+          <path
+             d="M 17050000,1050000 V 4950000"
+             id="path655-8" />
+          <path
+             d="m 17050000,4950000 h 550000"
+             id="path657-1" />
+          <path
+             d="m 17600000,4950000 1750000,250000"
+             id="path659-2" />
+          <path
+             d="m 19350000,5200000 1600000,400000"
+             id="path661-8" />
+          <path
+             d="m 20950000,5600000 2200000,950000"
+             id="path663-9" />
+          <path
+             d="m 23150000,6550000 1750000,1250000"
+             id="path665-3" />
+          <path
+             d="m 24900000,7800000 1400000,1400000"
+             id="path667-6" />
+          <path
+             d="m 26300000,9200000 900000,1300000"
+             id="path669-8" />
+          <path
+             d="m 27200000,10500000 1100000,2100000"
+             id="path671-0" />
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path673-2" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path675-1" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path677-0" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path679-5" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path681-1" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path683-1" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path685-0" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path687-8" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path689-5" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path691-0" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path693-6" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path695-4" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path697-6" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path699-2" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path701-5" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path703-8" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path705-6" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path707-2" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path709-8" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path711-4" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path713-7" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path715-2" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path717-4" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path719-0" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path721-6" />
+          <g
+             id="g723-2" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g725-9" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g733-9">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path727-0" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path729-8" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path731-1" />
+          </g>
+          <g
+             id="g735-3" />
+          <g
+             id="g737-1" />
+          <g
+             id="g739-1" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g745-0">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle743-3" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g747-4" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g751-0">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle749-3" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g753-9" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g757-1">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle755-9" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g759-6" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g761-9" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g763-3" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g783-3">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path765-8" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path767-0" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path769-5" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path771-6" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path773-6" />
+          <g
+             id="g775-4" />
+          <g
+             id="g777-0" />
+          <g
+             id="g779-0" />
+          <g
+             id="g781-4" />
+        </g>
+      </g>
+      <g
+         id="g221-6"
+         transform="matrix(1e-6,0,0,1e-6,139.8067,135.39789)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g119-2" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g139-6">
+          <g
+             id="g121-7" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g123-5" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g131-6">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path125-9" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path127-8" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path129-7" />
+          </g>
+          <g
+             id="g133-2" />
+          <g
+             id="g135-8" />
+          <g
+             id="g137-2" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g143-9">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle141-96" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g145-0" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g149-2">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle147-7" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g151-61" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g155-3">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle153-2" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g157-15" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g159-9" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g161-9" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g181-1">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path163-4" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path165-9" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path167-1" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path169-0" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path171-75" />
+          <g
+             id="g173-8" />
+          <g
+             id="g175-7" />
+          <g
+             id="g177-0" />
+          <g
+             id="g179-4" />
+        </g>
+      </g>
+      <g
+         id="g269-80"
+         transform="matrix(1e-6,0,0,1e-6,139.8067,92.478455)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g227-4" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g229-2" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g249-9">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path231-61" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path233-0" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path235-4" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path237-2" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path239-2" />
+          <g
+             id="g241-2" />
+          <g
+             id="g243-0" />
+          <g
+             id="g245-5" />
+          <g
+             id="g247-5" />
+        </g>
+      </g>
+      <g
+         id="g1046-2"
+         transform="matrix(1e-6,0,0,1e-6,139.8067,49.559019)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g275-9" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g277-0" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g281-2">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="12000000"
+             id="circle279-8" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g285-3">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="4100000"
+             id="circle283-8" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g289-04">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="16000000"
+             id="circle287-0" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g341-9">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path291-1" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path293-9" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path295-62" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path297-5" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path299-4" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path301-4" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path303-9" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path305-9" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path307-3" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path309-6" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path311-0" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path313-5" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path315-0" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path317-2" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path319-9" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path321-4" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path323-3" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path325-51" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path327-7" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path329-4" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path331-3" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path333-1" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path335-4" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path337-6" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path339-9" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g393-4">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path343-2" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path345-2" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path347-6" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path349-41" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path351-2" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path353-8" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path355-8" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path357-92" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path359-8" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path361-8" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path363-8" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path365-6" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path367-8" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path369-3" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path371-8" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path373-3" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path375-3" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path377-3" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path379-8" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path381-04" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path383-7" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path385-6" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path387-8" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path389-9" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path391-0" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g397-6">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 17050000,5000000 h -1850000 l -2600000,750000 -2100000,1100000 -1300000,900000 -1400000,1400000 -1250000,1750000 -950000,2200000 -400000,1600000 -250000,1750000 v 550000 H 1050000 l 200000,-2250000 450000,-2000000 500000,-1450000 600000,-1450000 1050000,-1800000 1250000,-1550000 1800000,-1750000 1600000,-1150000 1350000,-800000 2350000,-950000 1900000,-500000 2100000,-250000 850000,-50000 z"
+             id="path395-8" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g449-7">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path399-9" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path401-0" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path403-3" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path405-3" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path407-3" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path409-7" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path411-3" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path413-2" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path415-6" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path417-5" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path419-2" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path421-6" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path423-5" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path425-8" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path427-79" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path429-6" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path431-0" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path433-4" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path435-1" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path437-0" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path439-4" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path441-8" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path443-70" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path445-8" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path447-62" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g453-4">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 5000000,18850000 750000,2600000 1100000,2100000 900000,1300000 1400000,1400000 1750000,1250000 2200000,950000 1600000,400000 1750000,250000 h 550000 v 3900000 l -2250000,-200000 -2000000,-450000 -1450000,-500000 -1450000,-600000 -1800000,-1050000 -1550000,-1250000 -1750000,-1800000 -1150000,-1600000 -800000,-1350000 -950000,-2350000 -500000,-1900000 -250000,-2100000 -50000,-850000 h 3950000 z"
+             id="path451-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g455-9" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g507-3">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path457-9" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path459-2" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path461-8" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path463-3" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path465-0" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path467-1" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path469-7" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path471-8" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path473-9" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path475-1" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path477-54" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path479-9" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path481-2" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path483-5" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path485-7" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path487-4" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path489-9" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path491-9" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path493-4" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path495-5" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path497-9" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path499-3" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path501-5" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path503-7" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path505-0" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g559-8">
+          <path
+             d="m 28350000,12650000 750000,2600000"
+             id="path509-1" />
+          <path
+             d="m 29100000,15250000 v 1850000"
+             id="path511-9" />
+          <path
+             d="m 29100000,17100000 h 3950000"
+             id="path513-9" />
+          <path
+             d="m 33050000,17100000 -50000,-850000"
+             id="path515-7" />
+          <path
+             d="m 33000000,16250000 -250000,-2100000"
+             id="path517-8" />
+          <path
+             d="m 32750000,14150000 -500000,-1900000"
+             id="path519-2" />
+          <path
+             d="M 32250000,12250000 31300000,9900000"
+             id="path521-5" />
+          <path
+             d="M 31300000,9900000 30500000,8550000"
+             id="path523-3" />
+          <path
+             d="M 30500000,8550000 29350000,6950000"
+             id="path525-4" />
+          <path
+             d="M 29350000,6950000 27600000,5150000"
+             id="path527-9" />
+          <path
+             d="M 27600000,5150000 26050000,3900000"
+             id="path529-0" />
+          <path
+             d="M 26050000,3900000 24250000,2850000"
+             id="path531-2" />
+          <path
+             d="M 24250000,2850000 22800000,2250000"
+             id="path533-0" />
+          <path
+             d="M 22800000,2250000 21350000,1750000"
+             id="path535-1" />
+          <path
+             d="M 21350000,1750000 19350000,1300000"
+             id="path537-9" />
+          <path
+             d="M 19350000,1300000 17100000,1100000"
+             id="path539-6" />
+          <path
+             d="M 17100000,1100000 V 5000000"
+             id="path541-2" />
+          <path
+             d="m 17100000,5000000 h 550000"
+             id="path543-1" />
+          <path
+             d="m 17650000,5000000 1750000,250000"
+             id="path545-2" />
+          <path
+             d="m 19400000,5250000 1600000,400000"
+             id="path547-0" />
+          <path
+             d="m 21000000,5650000 2200000,950000"
+             id="path549-73" />
+          <path
+             d="m 23200000,6600000 1750000,1250000"
+             id="path551-1" />
+          <path
+             d="m 24950000,7850000 1400000,1400000"
+             id="path553-19" />
+          <path
+             d="m 26350000,9250000 900000,1300000"
+             id="path555-0" />
+          <path
+             d="m 27250000,10550000 1100000,2100000"
+             id="path557-56" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g563-7">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 19350000,1300000 2000000,450000 1450000,500000 1450000,600000 1800000,1050000 1550000,1250000 1750000,1800000 1150000,1600000 800000,1350000 950000,2350000 500000,1900000 250000,2100000 50000,850000 H 29100000 V 15250000 L 28350000,12650000 27250000,10550000 26350000,9250000 24950000,7850000 23200000,6600000 21000000,5650000 19400000,5250000 17650000,5000000 h -550000 V 1100000 Z"
+             id="path561-74" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g615-0">
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path565-6" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path567-4" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path569-7" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path571-4" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path573-8" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path575-5" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path577-8" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path579-2" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path581-6" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path583-0" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path585-6" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path587-6" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path589-4" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path591-62" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path593-8" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path595-9" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path597-6" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path599-0" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path601-7" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path603-0" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path605-1" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path607-0" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path609-1" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path611-3" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path613-7" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g619-7">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 32850000,19300000 -450000,2000000 -500000,1450000 -600000,1450000 -1050000,1800000 -1250000,1550000 -1800000,1750000 -1600000,1150000 -1350000,800000 -2350000,950000 -1900000,500000 -2100000,250000 -850000,50000 v -3950000 h 1850000 l 2600000,-750000 2100000,-1100000 1300000,-900000 1400000,-1400000 1250000,-1750000 950000,-2200000 400000,-1600000 250000,-1750000 v -550000 h 3900000 z"
+             id="path617-2" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g621-6" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g741-4">
+          <path
+             d="m 28300000,12600000 750000,2600000"
+             id="path623-5" />
+          <path
+             d="m 29050000,15200000 v 1850000"
+             id="path625-2" />
+          <path
+             d="m 29050000,17050000 h 3950000"
+             id="path627-0" />
+          <path
+             d="m 33000000,17050000 -50000,-850000"
+             id="path629-2" />
+          <path
+             d="m 32950000,16200000 -250000,-2100000"
+             id="path631-9" />
+          <path
+             d="m 32700000,14100000 -500000,-1900000"
+             id="path633-0" />
+          <path
+             d="M 32200000,12200000 31250000,9850000"
+             id="path635-9" />
+          <path
+             d="M 31250000,9850000 30450000,8500000"
+             id="path637-9" />
+          <path
+             d="M 30450000,8500000 29300000,6900000"
+             id="path639-4" />
+          <path
+             d="M 29300000,6900000 27550000,5100000"
+             id="path641-5" />
+          <path
+             d="M 27550000,5100000 26000000,3850000"
+             id="path643-1" />
+          <path
+             d="M 26000000,3850000 24200000,2800000"
+             id="path645-0" />
+          <path
+             d="M 24200000,2800000 22750000,2200000"
+             id="path647-3" />
+          <path
+             d="M 22750000,2200000 21300000,1700000"
+             id="path649-78" />
+          <path
+             d="M 21300000,1700000 19300000,1250000"
+             id="path651-8" />
+          <path
+             d="M 19300000,1250000 17050000,1050000"
+             id="path653-6" />
+          <path
+             d="M 17050000,1050000 V 4950000"
+             id="path655-0" />
+          <path
+             d="m 17050000,4950000 h 550000"
+             id="path657-4" />
+          <path
+             d="m 17600000,4950000 1750000,250000"
+             id="path659-6" />
+          <path
+             d="m 19350000,5200000 1600000,400000"
+             id="path661-7" />
+          <path
+             d="m 20950000,5600000 2200000,950000"
+             id="path663-6" />
+          <path
+             d="m 23150000,6550000 1750000,1250000"
+             id="path665-0" />
+          <path
+             d="m 24900000,7800000 1400000,1400000"
+             id="path667-9" />
+          <path
+             d="m 26300000,9200000 900000,1300000"
+             id="path669-7" />
+          <path
+             d="m 27200000,10500000 1100000,2100000"
+             id="path671-5" />
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path673-9" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path675-7" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path677-8" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path679-53" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path681-3" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path683-8" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path685-3" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path687-7" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path689-9" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path691-3" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path693-7" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path695-8" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path697-7" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path699-4" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path701-1" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path703-9" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path705-0" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path707-9" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path709-88" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path711-5" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path713-8" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path715-4" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path717-3" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path719-7" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path721-1" />
+          <g
+             id="g723-3" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g725-8" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g733-0">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path727-9" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path729-7" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path731-9" />
+          </g>
+          <g
+             id="g735-9" />
+          <g
+             id="g737-3" />
+          <g
+             id="g739-2" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g745-4">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle743-37" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g747-1" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g751-2">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle749-2" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g753-0" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g757-2">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle755-1" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g759-7" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g761-5" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g763-1" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g783-7">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path765-4" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path767-1" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path769-7" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path771-1" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path773-1" />
+          <g
+             id="g775-1" />
+          <g
+             id="g777-7" />
+          <g
+             id="g779-04" />
+          <g
+             id="g781-0" />
+        </g>
+      </g>
+      <g
+         id="g221-8"
+         transform="matrix(1e-6,0,0,1e-6,182.72613,135.39789)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g119-5" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g139-1">
+          <g
+             id="g121-6" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g123-6" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g131-2">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path125-1" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path127-9" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path129-6" />
+          </g>
+          <g
+             id="g133-4" />
+          <g
+             id="g135-80" />
+          <g
+             id="g137-8" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g143-1">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle141-0" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g145-2" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g149-29">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle147-75" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g151-64" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g155-6">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle153-3" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g157-7" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g159-97" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g161-4" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g181-91">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path163-7" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path165-06" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path167-0" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path169-8" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path171-5" />
+          <g
+             id="g173-3" />
+          <g
+             id="g175-94" />
+          <g
+             id="g177-1" />
+          <g
+             id="g179-5" />
+        </g>
+      </g>
+      <g
+         id="g269-4"
+         transform="matrix(1e-6,0,0,1e-6,182.72613,92.478455)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g227-1" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g229-5" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g249-5">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path231-4" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path233-9" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path235-8" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path237-3" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path239-8" />
+          <g
+             id="g241-5" />
+          <g
+             id="g243-2" />
+          <g
+             id="g245-2" />
+          <g
+             id="g247-2" />
+        </g>
+      </g>
+      <g
+         id="g1046-7"
+         transform="matrix(1e-6,0,0,1e-6,182.72613,49.559019)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g275-0" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g277-3" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g281-4">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="12000000"
+             id="circle279-6" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g285-36">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="4100000"
+             id="circle283-3" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g289-3">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="16000000"
+             id="circle287-4" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g341-4">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path291-3" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path293-97" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path295-2" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path297-58" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path299-9" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path301-0" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path303-2" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path305-4" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path307-7" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path309-65" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path311-7" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path313-1" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path315-33" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path317-3" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path319-8" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path321-51" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path323-0" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path325-8" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path327-76" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path329-3" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path331-5" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path333-0" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path335-8" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path337-04" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path339-1" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g393-1">
+          <path
+             d="m 12600000,5750000 2600000,-750000"
+             id="path343-3" />
+          <path
+             d="m 15200000,5000000 h 1850000"
+             id="path345-5" />
+          <path
+             d="M 17050000,5000000 V 1050000"
+             id="path347-9" />
+          <path
+             d="m 17050000,1050000 -850000,50000"
+             id="path349-3" />
+          <path
+             d="m 16200000,1100000 -2100000,250000"
+             id="path351-4" />
+          <path
+             d="m 14100000,1350000 -1900000,500000"
+             id="path353-15" />
+          <path
+             d="M 12200000,1850000 9850000,2800000"
+             id="path355-0" />
+          <path
+             d="M 9850000,2800000 8500000,3600000"
+             id="path357-8" />
+          <path
+             d="M 8500000,3600000 6900000,4750000"
+             id="path359-3" />
+          <path
+             d="M 6900000,4750000 5100000,6500000"
+             id="path361-5" />
+          <path
+             d="M 5100000,6500000 3850000,8050000"
+             id="path363-65" />
+          <path
+             d="M 3850000,8050000 2800000,9850000"
+             id="path365-9" />
+          <path
+             d="m 2800000,9850000 -600000,1450000"
+             id="path367-90" />
+          <path
+             d="m 2200000,11300000 -500000,1450000"
+             id="path369-7" />
+          <path
+             d="m 1700000,12750000 -450000,2000000"
+             id="path371-63" />
+          <path
+             d="m 1250000,14750000 -200000,2250000"
+             id="path373-7" />
+          <path
+             d="M 1050000,17000000 H 4950000"
+             id="path375-6" />
+          <path
+             d="m 4950000,17000000 v -550000"
+             id="path377-1" />
+          <path
+             d="m 4950000,16450000 250000,-1750000"
+             id="path379-50" />
+          <path
+             d="m 5200000,14700000 400000,-1600000"
+             id="path381-6" />
+          <path
+             d="m 5600000,13100000 950000,-2200000"
+             id="path383-5" />
+          <path
+             d="M 6550000,10900000 7800000,9150000"
+             id="path385-0" />
+          <path
+             d="M 7800000,9150000 9200000,7750000"
+             id="path387-81" />
+          <path
+             d="m 9200000,7750000 1300000,-900000"
+             id="path389-2" />
+          <path
+             d="M 10500000,6850000 12600000,5750000"
+             id="path391-2" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g397-69">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 17050000,5000000 h -1850000 l -2600000,750000 -2100000,1100000 -1300000,900000 -1400000,1400000 -1250000,1750000 -950000,2200000 -400000,1600000 -250000,1750000 v 550000 H 1050000 l 200000,-2250000 450000,-2000000 500000,-1450000 600000,-1450000 1050000,-1800000 1250000,-1550000 1800000,-1750000 1600000,-1150000 1350000,-800000 2350000,-950000 1900000,-500000 2100000,-250000 850000,-50000 z"
+             id="path395-1" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g449-0">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path399-4" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path401-2" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path403-7" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path405-4" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path407-0" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path409-3" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path411-2" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path413-8" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path415-0" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path417-3" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path419-7" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path421-0" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path423-0" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path425-3" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path427-4" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path429-9" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path431-2" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path433-7" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path435-4" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path437-2" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path439-5" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path441-2" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path443-4" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path445-4" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path447-3" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g453-8">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 5000000,18850000 750000,2600000 1100000,2100000 900000,1300000 1400000,1400000 1750000,1250000 2200000,950000 1600000,400000 1750000,250000 h 550000 v 3900000 l -2250000,-200000 -2000000,-450000 -1450000,-500000 -1450000,-600000 -1800000,-1050000 -1550000,-1250000 -1750000,-1800000 -1150000,-1600000 -800000,-1350000 -950000,-2350000 -500000,-1900000 -250000,-2100000 -50000,-850000 h 3950000 z"
+             id="path451-60" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g455-8" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g507-92">
+          <path
+             d="M 5750000,21450000 5000000,18850000"
+             id="path457-2" />
+          <path
+             d="M 5000000,18850000 V 17000000"
+             id="path459-3" />
+          <path
+             d="M 5000000,17000000 H 1050000"
+             id="path461-18" />
+          <path
+             d="m 1050000,17000000 50000,850000"
+             id="path463-34" />
+          <path
+             d="m 1100000,17850000 250000,2100000"
+             id="path465-2" />
+          <path
+             d="m 1350000,19950000 500000,1900000"
+             id="path467-2" />
+          <path
+             d="m 1850000,21850000 950000,2350000"
+             id="path469-4" />
+          <path
+             d="m 2800000,24200000 800000,1350000"
+             id="path471-5" />
+          <path
+             d="m 3600000,25550000 1150000,1600000"
+             id="path473-1" />
+          <path
+             d="m 4750000,27150000 1750000,1800000"
+             id="path475-7" />
+          <path
+             d="m 6500000,28950000 1550000,1250000"
+             id="path477-57" />
+          <path
+             d="m 8050000,30200000 1800000,1050000"
+             id="path479-1" />
+          <path
+             d="m 9850000,31250000 1450000,600000"
+             id="path481-6" />
+          <path
+             d="m 11300000,31850000 1450000,500000"
+             id="path483-9" />
+          <path
+             d="m 12750000,32350000 2000000,450000"
+             id="path485-8" />
+          <path
+             d="m 14750000,32800000 2250000,200000"
+             id="path487-1" />
+          <path
+             d="M 17000000,33000000 V 29100000"
+             id="path489-3" />
+          <path
+             d="m 17000000,29100000 h -550000"
+             id="path491-3" />
+          <path
+             d="m 16450000,29100000 -1750000,-250000"
+             id="path493-3" />
+          <path
+             d="m 14700000,28850000 -1600000,-400000"
+             id="path495-7" />
+          <path
+             d="m 13100000,28450000 -2200000,-950000"
+             id="path497-98" />
+          <path
+             d="M 10900000,27500000 9150000,26250000"
+             id="path499-6" />
+          <path
+             d="M 9150000,26250000 7750000,24850000"
+             id="path501-7" />
+          <path
+             d="M 7750000,24850000 6850000,23550000"
+             id="path503-0" />
+          <path
+             d="M 6850000,23550000 5750000,21450000"
+             id="path505-4" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g559-84">
+          <path
+             d="m 28350000,12650000 750000,2600000"
+             id="path509-8" />
+          <path
+             d="m 29100000,15250000 v 1850000"
+             id="path511-1" />
+          <path
+             d="m 29100000,17100000 h 3950000"
+             id="path513-6" />
+          <path
+             d="m 33050000,17100000 -50000,-850000"
+             id="path515-8" />
+          <path
+             d="m 33000000,16250000 -250000,-2100000"
+             id="path517-5" />
+          <path
+             d="m 32750000,14150000 -500000,-1900000"
+             id="path519-21" />
+          <path
+             d="M 32250000,12250000 31300000,9900000"
+             id="path521-9" />
+          <path
+             d="M 31300000,9900000 30500000,8550000"
+             id="path523-9" />
+          <path
+             d="M 30500000,8550000 29350000,6950000"
+             id="path525-60" />
+          <path
+             d="M 29350000,6950000 27600000,5150000"
+             id="path527-6" />
+          <path
+             d="M 27600000,5150000 26050000,3900000"
+             id="path529-4" />
+          <path
+             d="M 26050000,3900000 24250000,2850000"
+             id="path531-9" />
+          <path
+             d="M 24250000,2850000 22800000,2250000"
+             id="path533-9" />
+          <path
+             d="M 22800000,2250000 21350000,1750000"
+             id="path535-0" />
+          <path
+             d="M 21350000,1750000 19350000,1300000"
+             id="path537-8" />
+          <path
+             d="M 19350000,1300000 17100000,1100000"
+             id="path539-9" />
+          <path
+             d="M 17100000,1100000 V 5000000"
+             id="path541-3" />
+          <path
+             d="m 17100000,5000000 h 550000"
+             id="path543-14" />
+          <path
+             d="m 17650000,5000000 1750000,250000"
+             id="path545-89" />
+          <path
+             d="m 19400000,5250000 1600000,400000"
+             id="path547-6" />
+          <path
+             d="m 21000000,5650000 2200000,950000"
+             id="path549-77" />
+          <path
+             d="m 23200000,6600000 1750000,1250000"
+             id="path551-3" />
+          <path
+             d="m 24950000,7850000 1400000,1400000"
+             id="path553-7" />
+          <path
+             d="m 26350000,9250000 900000,1300000"
+             id="path555-1" />
+          <path
+             d="m 27250000,10550000 1100000,2100000"
+             id="path557-2" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g563-2">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 19350000,1300000 2000000,450000 1450000,500000 1450000,600000 1800000,1050000 1550000,1250000 1750000,1800000 1150000,1600000 800000,1350000 950000,2350000 500000,1900000 250000,2100000 50000,850000 H 29100000 V 15250000 L 28350000,12650000 27250000,10550000 26350000,9250000 24950000,7850000 23200000,6600000 21000000,5650000 19400000,5250000 17650000,5000000 h -550000 V 1100000 Z"
+             id="path561-1" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g615-50">
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path565-9" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path567-0" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path569-4" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path571-0" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path573-13" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path575-7" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path577-4" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path579-1" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path581-1" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path583-30" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path585-32" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path587-1" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path589-7" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path591-5" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path593-6" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path595-5" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path597-4" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path599-2" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path601-2" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path603-1" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path605-72" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path607-4" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path609-16" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path611-5" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path613-78" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g619-5">
+          <path
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:200000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             d="m 32850000,19300000 -450000,2000000 -500000,1450000 -600000,1450000 -1050000,1800000 -1250000,1550000 -1800000,1750000 -1600000,1150000 -1350000,800000 -2350000,950000 -1900000,500000 -2100000,250000 -850000,50000 v -3950000 h 1850000 l 2600000,-750000 2100000,-1100000 1300000,-900000 1400000,-1400000 1250000,-1750000 950000,-2200000 400000,-1600000 250000,-1750000 v -550000 h 3900000 z"
+             id="path617-9" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g621-2" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g741-7">
+          <path
+             d="m 28300000,12600000 750000,2600000"
+             id="path623-3" />
+          <path
+             d="m 29050000,15200000 v 1850000"
+             id="path625-6" />
+          <path
+             d="m 29050000,17050000 h 3950000"
+             id="path627-47" />
+          <path
+             d="m 33000000,17050000 -50000,-850000"
+             id="path629-9" />
+          <path
+             d="m 32950000,16200000 -250000,-2100000"
+             id="path631-7" />
+          <path
+             d="m 32700000,14100000 -500000,-1900000"
+             id="path633-2" />
+          <path
+             d="M 32200000,12200000 31250000,9850000"
+             id="path635-2" />
+          <path
+             d="M 31250000,9850000 30450000,8500000"
+             id="path637-1" />
+          <path
+             d="M 30450000,8500000 29300000,6900000"
+             id="path639-6" />
+          <path
+             d="M 29300000,6900000 27550000,5100000"
+             id="path641-3" />
+          <path
+             d="M 27550000,5100000 26000000,3850000"
+             id="path643-0" />
+          <path
+             d="M 26000000,3850000 24200000,2800000"
+             id="path645-2" />
+          <path
+             d="M 24200000,2800000 22750000,2200000"
+             id="path647-1" />
+          <path
+             d="M 22750000,2200000 21300000,1700000"
+             id="path649-5" />
+          <path
+             d="M 21300000,1700000 19300000,1250000"
+             id="path651-6" />
+          <path
+             d="M 19300000,1250000 17050000,1050000"
+             id="path653-5" />
+          <path
+             d="M 17050000,1050000 V 4950000"
+             id="path655-00" />
+          <path
+             d="m 17050000,4950000 h 550000"
+             id="path657-3" />
+          <path
+             d="m 17600000,4950000 1750000,250000"
+             id="path659-4" />
+          <path
+             d="m 19350000,5200000 1600000,400000"
+             id="path661-6" />
+          <path
+             d="m 20950000,5600000 2200000,950000"
+             id="path663-60" />
+          <path
+             d="m 23150000,6550000 1750000,1250000"
+             id="path665-2" />
+          <path
+             d="m 24900000,7800000 1400000,1400000"
+             id="path667-5" />
+          <path
+             d="m 26300000,9200000 900000,1300000"
+             id="path669-89" />
+          <path
+             d="m 27200000,10500000 1100000,2100000"
+             id="path671-50" />
+          <path
+             d="m 21500000,28300000 -2600000,750000"
+             id="path673-6" />
+          <path
+             d="M 18900000,29050000 H 17050000"
+             id="path675-0" />
+          <path
+             d="m 17050000,29050000 v 3950000"
+             id="path677-83" />
+          <path
+             d="m 17050000,33000000 850000,-50000"
+             id="path679-7" />
+          <path
+             d="m 17900000,32950000 2100000,-250000"
+             id="path681-8" />
+          <path
+             d="m 20000000,32700000 1900000,-500000"
+             id="path683-2" />
+          <path
+             d="m 21900000,32200000 2350000,-950000"
+             id="path685-1" />
+          <path
+             d="m 24250000,31250000 1350000,-800000"
+             id="path687-0" />
+          <path
+             d="m 25600000,30450000 1600000,-1150000"
+             id="path689-58" />
+          <path
+             d="m 27200000,29300000 1800000,-1750000"
+             id="path691-5" />
+          <path
+             d="m 29000000,27550000 1250000,-1550000"
+             id="path693-5" />
+          <path
+             d="m 30250000,26000000 1050000,-1800000"
+             id="path695-0" />
+          <path
+             d="m 31300000,24200000 600000,-1450000"
+             id="path697-73" />
+          <path
+             d="m 31900000,22750000 500000,-1450000"
+             id="path699-8" />
+          <path
+             d="m 32400000,21300000 450000,-2000000"
+             id="path701-2" />
+          <path
+             d="m 32850000,19300000 200000,-2250000"
+             id="path703-3" />
+          <path
+             d="M 33050000,17050000 H 29150000"
+             id="path705-07" />
+          <path
+             d="m 29150000,17050000 v 550000"
+             id="path707-7" />
+          <path
+             d="m 29150000,17600000 -250000,1750000"
+             id="path709-7" />
+          <path
+             d="m 28900000,19350000 -400000,1600000"
+             id="path711-6" />
+          <path
+             d="m 28500000,20950000 -950000,2200000"
+             id="path713-9" />
+          <path
+             d="m 27550000,23150000 -1250000,1750000"
+             id="path715-1" />
+          <path
+             d="m 26300000,24900000 -1400000,1400000"
+             id="path717-1" />
+          <path
+             d="m 24900000,26300000 -1300000,900000"
+             id="path719-9" />
+          <path
+             d="m 23600000,27200000 -2100000,1100000"
+             id="path721-0" />
+          <g
+             id="g723-8" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g725-98" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g733-8">
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 15050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path727-03" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 1050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 H 2050000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path729-70" />
+            <path
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+               d="m 29050000,16050000 15804,-177085 55710,-194283 93638,-179113 127741,-156626 156626,-127741 179113,-93638 194283,-55710 177085,-15804 h 2000000 l 177085,15804 194283,55710 179113,93638 156626,127741 127741,156626 93638,179113 55710,194283 15804,177085 v 2000000 l -15804,177085 -55710,194283 -93638,179113 -127741,156626 -156626,127741 -179113,93638 -194283,55710 -177085,15804 h -2000000 l -177085,-15804 -194283,-55710 -179113,-93638 -156626,-127741 -127741,-156626 -93638,-179113 -55710,-194283 -15804,-177085 z"
+               id="path731-6" />
+          </g>
+          <g
+             id="g735-92" />
+          <g
+             id="g737-17" />
+          <g
+             id="g739-7" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g745-9">
+          <circle
+             cx="17050000"
+             cy="17050000"
+             r="300000"
+             id="circle743-7" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g747-6" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g751-27">
+          <circle
+             cx="3050000"
+             cy="17050000"
+             r="300000"
+             id="circle749-1" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g753-5" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g757-8">
+          <circle
+             cx="31050000"
+             cy="17050000"
+             r="300000"
+             id="circle755-8" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g759-4" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:21200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g761-56" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g763-5" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:100000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g783-6">
+          <path
+             d="M 34050000,34050000 V 17050000"
+             id="path765-84" />
+          <path
+             d="M 50000,34050000 H 34050000"
+             id="path767-8" />
+          <path
+             d="M 50000,50000 V 34050000"
+             id="path769-8" />
+          <path
+             d="M 34050000,50000 H 50000"
+             id="path771-3" />
+          <path
+             d="M 34050000,17050000 V 50000"
+             id="path773-8" />
+          <g
+             id="g775-7" />
+          <g
+             id="g777-5" />
+          <g
+             id="g779-2" />
+          <g
+             id="g781-45" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

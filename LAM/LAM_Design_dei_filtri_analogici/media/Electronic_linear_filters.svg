@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1200" height="960" viewBox="0 0 1200 960" id="svg2" version="1.1" inkscape:version="0.48.2 r9819" sodipodi:docname="Electronic_linear_filters.svg">
+  <metadata id="metadata484">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="911" inkscape:window-height="711" id="namedview482" showgrid="false" inkscape:zoom="0.24583333" inkscape:cx="600" inkscape:cy="480" inkscape:window-x="928" inkscape:window-y="145" inkscape:window-maximized="0" inkscape:current-layer="svg2"/>
+  <desc id="desc4">Produced by GNUPLOT 4.0 patchlevel 0 </desc>
+  <defs id="defs6">
+    <circle id="gpDot" r="1"/>
+    <path id="gpPt0" style="stroke-width:0.111" d="M-1,0 h2 M0,-1 v2"/>
+    <path id="gpPt1" style="stroke-width:0.111" d="M-1,-1 L1,1 M1,-1 L-1,1"/>
+    <path id="gpPt2" style="stroke-width:0.111" d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1"/>
+    <rect id="gpPt3" style="stroke-width:0.111" x="-1" y="-1" width="2" height="2"/>
+    <use xlink:href="#gpPt3" id="gpPt4" style="fill:currentColor; stroke:none"/>
+    <circle id="gpPt5" style="stroke-width:0.111" cx="0" cy="0" r="1"/>
+    <use xlink:href="#gpPt5" id="gpPt6" style="fill:currentColor; stroke:none"/>
+    <path id="gpPt7" style="stroke-width:0.111" d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z"/>
+    <use xlink:href="#gpPt7" id="gpPt8" style="fill:currentColor; stroke:none"/>
+    <use xlink:href="#gpPt7" id="gpPt9" transform="rotate(180)"/>
+    <use xlink:href="#gpPt9" id="gpPt10" style="fill:currentColor; stroke:none"/>
+    <use xlink:href="#gpPt3" id="gpPt11" transform="rotate(45)"/>
+    <use xlink:href="#gpPt11" id="gpPt12" style="fill:currentColor; stroke:none"/>
+  </defs>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00" id="g22">
+    <path d="M120,417 L138,417 M547,417 L529,417 " id="path24"/>
+    <g transform="translate(103,426)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g26">
+      <text id="text28">
+        <tspan id="tspan30"> 0</tspan>
+      </text>
+    </g>
+    <path d="M120,356 L138,356 M547,356 L529,356 " id="path32"/>
+    <g transform="translate(103,365)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g34">
+      <text id="text36">
+        <tspan id="tspan38"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M120,295 L138,295 M547,295 L529,295 " id="path40"/>
+    <g transform="translate(103,304)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g42">
+      <text id="text44">
+        <tspan id="tspan46"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M120,234 L138,234 M547,234 L529,234 " id="path48"/>
+    <g transform="translate(103,243)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g50">
+      <text id="text52">
+        <tspan id="tspan54"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M120,173 L138,173 M547,173 L529,173 " id="path56"/>
+    <g transform="translate(103,182)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g58">
+      <text id="text60">
+        <tspan id="tspan62"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M120,112 L138,112 M547,112 L529,112 " id="path64"/>
+    <g transform="translate(103,121)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g66">
+      <text id="text68">
+        <tspan id="tspan70"> 1</tspan>
+      </text>
+    </g>
+    <path d="M120,417 L120,435 M120,417 L120,399 " id="path72"/>
+    <g transform="translate(120,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g74">
+      <text id="text76">
+        <tspan id="tspan78"> 0</tspan>
+      </text>
+    </g>
+    <path d="M205,417 L205,435 M205,417 L205,399 " id="path80"/>
+    <g transform="translate(205,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g82">
+      <text id="text84">
+        <tspan id="tspan86"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M291,417 L291,435 M291,417 L291,399 " id="path88"/>
+    <g transform="translate(291,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g90">
+      <text id="text92">
+        <tspan id="tspan94"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M376,417 L376,435 M376,417 L376,399 " id="path96"/>
+    <g transform="translate(376,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g98">
+      <text id="text100">
+        <tspan id="tspan102"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M462,417 L462,435 M462,417 L462,399 " id="path104"/>
+    <g transform="translate(462,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g106">
+      <text id="text108">
+        <tspan id="tspan110"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M547,417 L547,435 M547,417 L547,399 " id="path112"/>
+    <g transform="translate(547,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g114">
+      <text id="text116">
+        <tspan id="tspan118"> 1</tspan>
+      </text>
+    </g>
+    <path d="M120,417 L547,417 L547,82 L120,82 L120,417 " id="path120"/>
+    <g transform="translate(333,35)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g122">
+      <text id="text124">
+        <tspan id="tspan126">Butterworth</tspan>
+      </text>
+    </g>
+  </g>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:3.00" id="g128"/>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:3.00" id="g130">
+    <path d="M120,112 L122,112 L123,112 L125,112 L127,112 L128,112 L130,112 L132,112 L133,112 L135,112    L137,112 L138,112 L140,112 L142,112 L143,112 L145,112 L147,112 L148,112 L150,112 L152,112    L153,112 L155,112 L157,112 L159,112 L160,112 L162,112 L164,112 L165,112 L167,112 L169,112    L170,112 L172,112 L174,112 L175,112 L177,112 L179,112 L180,112 L182,112 L184,112 L185,112    L187,112 L189,112 L190,112 L192,112 L194,112 L195,112 L197,112 L199,112 L200,112 L202,112    L204,112 L205,112 L207,112 L209,112 L210,112 L212,112 L214,112 L215,112 L217,112 L219,112    L220,112 L222,112 L224,112 L225,112 L227,112 L229,112 L231,112 L232,112 L234,113 L236,113    L237,113 L239,113 L241,113 L242,113 L244,113 L246,113 L247,113 L249,113 L251,113 L252,113    L254,113 L256,113 L257,113 L259,113 L261,113 L262,113 L264,113 L266,113 L267,113 L269,114    L271,114 L272,114 L274,114 L276,114 L277,115 L279,115 L281,115 L282,116 L284,116 L286,117    L287,117 L289,118 L291,119 L292,119 L294,120 L296,121 L297,122 L299,124 L301,125 L303,127    L304,128 L306,130 L308,133 L309,135 L311,138 L313,140 L314,144 L316,147 L318,151 L319,155    L321,159 L323,164 L324,169 L326,174 L328,180 L329,186 L331,192 L333,198 L334,205 L336,212    L338,219 L339,226 L341,233 L343,240 L344,248 L346,255 L348,262 L349,269 L351,276 L353,283    L354,289 L356,296 L358,302 L359,308 L361,314 L363,320 L364,325 L366,330 L368,335 L370,340    L371,344 L373,349 L375,353 L376,357 L378,360 L380,364 L381,367 L383,370 L385,373 L386,376    L388,378 L390,381 L391,383 L393,385 L395,387 L396,389 L398,391 L400,393 L401,395 L403,396    L405,398 L406,399 L408,400 L410,401 L411,402 L413,403 L415,404 L416,405 L418,406 L420,407    L421,408 L423,408 L425,409 L426,410 L428,410 L430,411 L431,411 L433,412 L435,412 L436,412    L438,413 L440,413 L442,414 L443,414 L445,414 L447,414 L448,415 L450,415 L452,415 L453,415    L455,415 L457,416 L458,416 L460,416 L462,416 L463,416 L465,416 L467,416 L468,416 L470,416    L472,416 L473,416 L475,417 L477,417 L478,417 L480,417 L482,417 L483,417 L485,417 L487,417    L488,417 L490,417 L492,417 L493,417 L495,417 L497,417 L498,417 L500,417 L502,417 L503,417    L505,417 L507,417 L508,417 L510,417 L512,417 L514,417 L515,417 L517,417 L519,417 L520,417    L522,417 L524,417 L525,417 L527,417 L529,417 L530,417 L532,417 L534,417 L535,417 L537,417    L539,417 L540,417 L542,417 L544,417 L545,417 L547,417 " id="path132"/>
+  </g>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00" id="g134"/>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00" id="g136">
+    <path d="M120,417 L547,417 L547,82 L120,82 L120,417 M720,417 L738,417 M1147,417 L1129,417 " id="path138"/>
+    <g transform="translate(703,426)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g140">
+      <text id="text142">
+        <tspan id="tspan144"> 0</tspan>
+      </text>
+    </g>
+    <path d="M720,356 L738,356 M1147,356 L1129,356 " id="path146"/>
+    <g transform="translate(703,365)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g148">
+      <text id="text150">
+        <tspan id="tspan152"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M720,295 L738,295 M1147,295 L1129,295 " id="path154"/>
+    <g transform="translate(703,304)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g156">
+      <text id="text158">
+        <tspan id="tspan160"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M720,234 L738,234 M1147,234 L1129,234 " id="path162"/>
+    <g transform="translate(703,243)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g164">
+      <text id="text166">
+        <tspan id="tspan168"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M720,173 L738,173 M1147,173 L1129,173 " id="path170"/>
+    <g transform="translate(703,182)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g172">
+      <text id="text174">
+        <tspan id="tspan176"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M720,112 L738,112 M1147,112 L1129,112 " id="path178"/>
+    <g transform="translate(703,121)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g180">
+      <text id="text182">
+        <tspan id="tspan184"> 1</tspan>
+      </text>
+    </g>
+    <path d="M720,417 L720,435 M720,417 L720,399 " id="path186"/>
+    <g transform="translate(720,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g188">
+      <text id="text190">
+        <tspan id="tspan192"> 0</tspan>
+      </text>
+    </g>
+    <path d="M805,417 L805,435 M805,417 L805,399 " id="path194"/>
+    <g transform="translate(805,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g196">
+      <text id="text198">
+        <tspan id="tspan200"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M891,417 L891,435 M891,417 L891,399 " id="path202"/>
+    <g transform="translate(891,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g204">
+      <text id="text206">
+        <tspan id="tspan208"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M976,417 L976,435 M976,417 L976,399 " id="path210"/>
+    <g transform="translate(976,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g212">
+      <text id="text214">
+        <tspan id="tspan216"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M1062,417 L1062,435 M1062,417 L1062,399 " id="path218"/>
+    <g transform="translate(1062,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g220">
+      <text id="text222">
+        <tspan id="tspan224"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M1147,417 L1147,435 M1147,417 L1147,399 " id="path226"/>
+    <g transform="translate(1147,463)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g228">
+      <text id="text230">
+        <tspan id="tspan232"> 1</tspan>
+      </text>
+    </g>
+    <path d="M720,417 L1147,417 L1147,82 L720,82 L720,417 " id="path234"/>
+    <g transform="translate(933,35)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g236">
+      <text id="text238">
+        <tspan id="tspan240">Chebyshev type 1</tspan>
+      </text>
+    </g>
+  </g>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:3.00" id="g242"/>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:3.00" id="g244">
+    <path d="M720,112 L722,112 L723,113 L725,113 L727,113 L728,113 L730,113 L732,113 L733,114 L735,114    L737,114 L738,114 L740,115 L742,115 L743,116 L745,116 L747,117 L748,117 L750,118 L752,118    L753,119 L755,119 L757,120 L759,120 L760,121 L762,121 L764,122 L765,122 L767,123 L769,123    L770,124 L772,124 L774,125 L775,125 L777,126 L779,126 L780,127 L782,127 L784,127 L785,128    L787,128 L789,128 L790,129 L792,129 L794,129 L795,129 L797,129 L799,129 L800,129 L802,129    L804,129 L805,129 L807,129 L809,129 L810,129 L812,129 L814,128 L815,128 L817,128 L819,127    L820,127 L822,126 L824,126 L825,125 L827,125 L829,124 L831,124 L832,123 L834,122 L836,121    L837,121 L839,120 L841,119 L842,119 L844,118 L846,117 L847,117 L849,116 L851,115 L852,115    L854,114 L856,114 L857,113 L859,113 L861,113 L862,113 L864,112 L866,112 L867,113 L869,113    L871,113 L872,114 L874,114 L876,115 L877,116 L879,116 L881,117 L882,118 L884,119 L886,120    L887,121 L889,123 L891,124 L892,125 L894,126 L896,127 L897,128 L899,128 L901,129 L903,129    L904,129 L906,129 L908,129 L909,129 L911,128 L913,127 L914,125 L916,124 L918,122 L919,120    L921,117 L923,115 L924,114 L926,113 L928,113 L929,114 L931,118 L933,125 L934,135 L936,147    L938,163 L939,180 L941,198 L943,217 L944,236 L946,253 L948,270 L949,285 L951,299 L953,311    L954,322 L956,331 L958,340 L959,348 L961,355 L963,361 L964,366 L966,371 L968,375 L970,379    L971,383 L973,386 L975,389 L976,391 L978,394 L980,396 L981,397 L983,399 L985,401 L986,402    L988,403 L990,405 L991,406 L993,407 L995,407 L996,408 L998,409 L1000,410 L1001,410 L1003,411    L1005,411 L1006,412 L1008,412 L1010,413 L1011,413 L1013,413 L1015,414 L1016,414 L1018,414 L1020,414    L1021,415 L1023,415 L1025,415 L1026,415 L1028,415 L1030,416 L1031,416 L1033,416 L1035,416 L1036,416    L1038,416 L1040,416 L1042,416 L1043,416 L1045,416 L1047,416 L1048,416 L1050,417 L1052,417 L1053,417    L1055,417 L1057,417 L1058,417 L1060,417 L1062,417 L1063,417 L1065,417 L1067,417 L1068,417 L1070,417    L1072,417 L1073,417 L1075,417 L1077,417 L1078,417 L1080,417 L1082,417 L1083,417 L1085,417 L1087,417    L1088,417 L1090,417 L1092,417 L1093,417 L1095,417 L1097,417 L1098,417 L1100,417 L1102,417 L1103,417    L1105,417 L1107,417 L1108,417 L1110,417 L1112,417 L1114,417 L1115,417 L1117,417 L1119,417 L1120,417    L1122,417 L1124,417 L1125,417 L1127,417 L1129,417 L1130,417 L1132,417 L1134,417 L1135,417 L1137,417    L1139,417 L1140,417 L1142,417 L1144,417 L1145,417 L1147,417 " id="path246"/>
+  </g>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00" id="g248"/>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00" id="g250">
+    <path d="M720,417 L1147,417 L1147,82 L720,82 L720,417 M120,897 L138,897 M547,897 L529,897 " id="path252"/>
+    <g transform="translate(103,906)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g254">
+      <text id="text256">
+        <tspan id="tspan258"> 0</tspan>
+      </text>
+    </g>
+    <path d="M120,836 L138,836 M547,836 L529,836 " id="path260"/>
+    <g transform="translate(103,845)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g262">
+      <text id="text264">
+        <tspan id="tspan266"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M120,775 L138,775 M547,775 L529,775 " id="path268"/>
+    <g transform="translate(103,784)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g270">
+      <text id="text272">
+        <tspan id="tspan274"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M120,714 L138,714 M547,714 L529,714 " id="path276"/>
+    <g transform="translate(103,723)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g278">
+      <text id="text280">
+        <tspan id="tspan282"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M120,653 L138,653 M547,653 L529,653 " id="path284"/>
+    <g transform="translate(103,662)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g286">
+      <text id="text288">
+        <tspan id="tspan290"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M120,592 L138,592 M547,592 L529,592 " id="path292"/>
+    <g transform="translate(103,601)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g294">
+      <text id="text296">
+        <tspan id="tspan298"> 1</tspan>
+      </text>
+    </g>
+    <path d="M120,897 L120,915 M120,897 L120,879 " id="path300"/>
+    <g transform="translate(120,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g302">
+      <text id="text304">
+        <tspan id="tspan306"> 0</tspan>
+      </text>
+    </g>
+    <path d="M205,897 L205,915 M205,897 L205,879 " id="path308"/>
+    <g transform="translate(205,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g310">
+      <text id="text312">
+        <tspan id="tspan314"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M291,897 L291,915 M291,897 L291,879 " id="path316"/>
+    <g transform="translate(291,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g318">
+      <text id="text320">
+        <tspan id="tspan322"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M376,897 L376,915 M376,897 L376,879 " id="path324"/>
+    <g transform="translate(376,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g326">
+      <text id="text328">
+        <tspan id="tspan330"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M462,897 L462,915 M462,897 L462,879 " id="path332"/>
+    <g transform="translate(462,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g334">
+      <text id="text336">
+        <tspan id="tspan338"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M547,897 L547,915 M547,897 L547,879 " id="path340"/>
+    <g transform="translate(547,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g342">
+      <text id="text344">
+        <tspan id="tspan346"> 1</tspan>
+      </text>
+    </g>
+    <path d="M120,897 L547,897 L547,562 L120,562 L120,897 " id="path348"/>
+    <g transform="translate(333,515)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g350">
+      <text id="text352">
+        <tspan id="tspan354">Chebyshev type 2</tspan>
+      </text>
+    </g>
+  </g>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:3.00" id="g356"/>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:3.00" id="g358">
+    <path d="M120,592 L122,592 L123,592 L125,592 L127,592 L128,592 L130,592 L132,592 L133,592 L135,592    L137,592 L138,592 L140,592 L142,592 L143,592 L145,592 L147,592 L148,592 L150,592 L152,592    L153,592 L155,592 L157,592 L159,592 L160,592 L162,592 L164,592 L165,592 L167,592 L169,592    L170,592 L172,592 L174,592 L175,592 L177,592 L179,592 L180,592 L182,592 L184,592 L185,592    L187,592 L189,592 L190,592 L192,592 L194,592 L195,592 L197,592 L199,592 L200,592 L202,592    L204,592 L205,592 L207,592 L209,592 L210,592 L212,592 L214,592 L215,592 L217,592 L219,592    L220,592 L222,592 L224,592 L225,592 L227,592 L229,592 L231,592 L232,592 L234,592 L236,592    L237,592 L239,593 L241,593 L242,593 L244,593 L246,593 L247,593 L249,593 L251,593 L252,593    L254,593 L256,593 L257,593 L259,593 L261,593 L262,593 L264,593 L266,593 L267,594 L269,594    L271,594 L272,594 L274,595 L276,595 L277,595 L279,596 L281,597 L282,598 L284,599 L286,600    L287,601 L289,603 L291,605 L292,607 L294,610 L296,614 L297,618 L299,622 L301,628 L303,634    L304,642 L306,651 L308,660 L309,671 L311,683 L313,697 L314,711 L316,725 L318,741 L319,756    L321,772 L323,787 L324,801 L326,815 L328,828 L329,840 L331,852 L333,862 L334,871 L336,879    L338,887 L339,894 L341,895 L343,889 L344,885 L346,881 L348,878 L349,875 L351,873 L353,871    L354,869 L356,868 L358,867 L359,867 L361,867 L363,867 L364,867 L366,867 L368,868 L370,868    L371,869 L373,870 L375,871 L376,873 L378,874 L380,875 L381,877 L383,878 L385,880 L386,881    L388,883 L390,884 L391,886 L393,888 L395,889 L396,891 L398,893 L400,894 L401,896 L403,897    L405,895 L406,894 L408,892 L410,891 L411,889 L413,888 L415,886 L416,885 L418,884 L420,883    L421,881 L423,880 L425,879 L426,878 L428,877 L430,876 L431,875 L433,874 L435,874 L436,873    L438,872 L440,871 L442,871 L443,870 L445,870 L447,869 L448,869 L450,868 L452,868 L453,868    L455,867 L457,867 L458,867 L460,867 L462,867 L463,867 L465,867 L467,867 L468,867 L470,867    L472,867 L473,867 L475,867 L477,867 L478,868 L480,868 L482,868 L483,869 L485,869 L487,869    L488,870 L490,870 L492,871 L493,871 L495,872 L497,872 L498,873 L500,874 L502,874 L503,875    L505,876 L507,876 L508,877 L510,878 L512,878 L514,879 L515,880 L517,881 L519,882 L520,882    L522,883 L524,884 L525,885 L527,886 L529,887 L530,888 L532,889 L534,890 L535,890 L537,891    L539,892 L540,893 L542,894 L544,895 L545,896 L547,897 " id="path360"/>
+  </g>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00" id="g362"/>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00" id="g364">
+    <path d="M120,897 L547,897 L547,562 L120,562 L120,897 M720,897 L738,897 M1147,897 L1129,897 " id="path366"/>
+    <g transform="translate(703,906)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g368">
+      <text id="text370">
+        <tspan id="tspan372"> 0</tspan>
+      </text>
+    </g>
+    <path d="M720,836 L738,836 M1147,836 L1129,836 " id="path374"/>
+    <g transform="translate(703,845)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g376">
+      <text id="text378">
+        <tspan id="tspan380"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M720,775 L738,775 M1147,775 L1129,775 " id="path382"/>
+    <g transform="translate(703,784)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g384">
+      <text id="text386">
+        <tspan id="tspan388"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M720,714 L738,714 M1147,714 L1129,714 " id="path390"/>
+    <g transform="translate(703,723)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g392">
+      <text id="text394">
+        <tspan id="tspan396"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M720,653 L738,653 M1147,653 L1129,653 " id="path398"/>
+    <g transform="translate(703,662)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g400">
+      <text id="text402">
+        <tspan id="tspan404"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M720,592 L738,592 M1147,592 L1129,592 " id="path406"/>
+    <g transform="translate(703,601)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:end" id="g408">
+      <text id="text410">
+        <tspan id="tspan412"> 1</tspan>
+      </text>
+    </g>
+    <path d="M720,897 L720,915 M720,897 L720,879 " id="path414"/>
+    <g transform="translate(720,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g416">
+      <text id="text418">
+        <tspan id="tspan420"> 0</tspan>
+      </text>
+    </g>
+    <path d="M805,897 L805,915 M805,897 L805,879 " id="path422"/>
+    <g transform="translate(805,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g424">
+      <text id="text426">
+        <tspan id="tspan428"> 0.2</tspan>
+      </text>
+    </g>
+    <path d="M891,897 L891,915 M891,897 L891,879 " id="path430"/>
+    <g transform="translate(891,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g432">
+      <text id="text434">
+        <tspan id="tspan436"> 0.4</tspan>
+      </text>
+    </g>
+    <path d="M976,897 L976,915 M976,897 L976,879 " id="path438"/>
+    <g transform="translate(976,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g440">
+      <text id="text442">
+        <tspan id="tspan444"> 0.6</tspan>
+      </text>
+    </g>
+    <path d="M1062,897 L1062,915 M1062,897 L1062,879 " id="path446"/>
+    <g transform="translate(1062,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g448">
+      <text id="text450">
+        <tspan id="tspan452"> 0.8</tspan>
+      </text>
+    </g>
+    <path d="M1147,897 L1147,915 M1147,897 L1147,879 " id="path454"/>
+    <g transform="translate(1147,943)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g456">
+      <text id="text458">
+        <tspan id="tspan460"> 1</tspan>
+      </text>
+    </g>
+    <path d="M720,897 L1147,897 L1147,562 L720,562 L720,897 " id="path462"/>
+    <g transform="translate(933,515)" style="stroke:none; fill:black; font-family:Times; font-size:25.00; text-anchor:middle" id="g464">
+      <text id="text466">
+        <tspan id="tspan468">Elliptic</tspan>
+      </text>
+    </g>
+  </g>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:3.00" id="g470"/>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:3.00" id="g472">
+    <path d="M720,592 L722,592 L723,592 L725,593 L727,593 L728,593 L730,593 L732,593 L733,593 L735,593    L737,593 L738,593 L740,593 L742,593 L743,594 L745,594 L747,594 L748,594 L750,594 L752,595    L753,595 L755,595 L757,595 L759,596 L760,596 L762,596 L764,596 L765,597 L767,597 L769,597    L770,598 L772,598 L774,598 L775,598 L777,599 L779,599 L780,599 L782,600 L784,600 L785,601    L787,601 L789,601 L790,602 L792,602 L794,602 L795,603 L797,603 L799,603 L800,604 L802,604    L804,604 L805,605 L807,605 L809,605 L810,606 L812,606 L814,606 L815,607 L817,607 L819,607    L820,607 L822,608 L824,608 L825,608 L827,608 L829,609 L831,609 L832,609 L834,609 L836,609    L837,609 L839,609 L841,609 L842,609 L844,609 L846,609 L847,609 L849,609 L851,609 L852,609    L854,609 L856,609 L857,608 L859,608 L861,608 L862,608 L864,607 L866,607 L867,606 L869,606    L871,605 L872,605 L874,604 L876,603 L877,603 L879,602 L881,601 L882,600 L884,599 L886,599    L887,598 L889,597 L891,596 L892,595 L894,595 L896,594 L897,593 L899,593 L901,593 L903,592    L904,593 L906,593 L908,593 L909,594 L911,596 L913,597 L914,599 L916,601 L918,603 L919,605    L921,607 L923,609 L924,609 L926,609 L928,606 L929,600 L931,594 L933,596 L934,637 L936,727    L938,812 L939,865 L941,895 L943,882 L944,873 L946,868 L948,867 L949,867 L951,868 L953,870    L954,872 L956,875 L958,877 L959,880 L961,883 L963,886 L964,889 L966,891 L968,894 L970,896    L971,895 L973,893 L975,891 L976,889 L978,887 L980,886 L981,884 L983,882 L985,881 L986,880    L988,878 L990,877 L991,876 L993,875 L995,874 L996,873 L998,872 L1000,872 L1001,871 L1003,870    L1005,870 L1006,869 L1008,869 L1010,868 L1011,868 L1013,868 L1015,868 L1016,867 L1018,867 L1020,867    L1021,867 L1023,867 L1025,867 L1026,867 L1028,867 L1030,867 L1031,867 L1033,867 L1035,867 L1036,867    L1038,867 L1040,867 L1042,867 L1043,868 L1045,868 L1047,868 L1048,868 L1050,868 L1052,869 L1053,869    L1055,869 L1057,870 L1058,870 L1060,870 L1062,871 L1063,871 L1065,871 L1067,872 L1068,872 L1070,873    L1072,873 L1073,873 L1075,874 L1077,874 L1078,875 L1080,875 L1082,876 L1083,876 L1085,877 L1087,877    L1088,878 L1090,878 L1092,879 L1093,879 L1095,880 L1097,880 L1098,881 L1100,881 L1102,882 L1103,882    L1105,883 L1107,883 L1108,884 L1110,884 L1112,885 L1114,886 L1115,886 L1117,887 L1119,887 L1120,888    L1122,888 L1124,889 L1125,889 L1127,890 L1129,891 L1130,891 L1132,892 L1134,892 L1135,893 L1137,894    L1139,894 L1140,895 L1142,895 L1144,896 L1145,896 L1147,897 " id="path474"/>
+  </g>
+  <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00" id="g476"/>
+  <g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00" id="g478">
+    <path d="M720,897 L1147,897 L1147,562 L720,562 L720,897 " id="path480"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+# scripts/devbox/Containerfile.latex
+# LAM "Design dei filtri analogici" — lualatex + fontspec + biber toolchain
+# (derived from the TIDES devbox Containerfile, tuned for this 2022 maturità paper)
+FROM quay.io/toolbx-images/debian-toolbox:13
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+# Persist APT downloads + package lists across builds (host-side),
+# without bloating the final image.
+RUN --mount=type=cache,id=apt-archives-debian13,target=/var/cache/apt \
+    --mount=type=cache,id=apt-lists-debian13,target=/var/lib/apt/lists \
+    rm -f /etc/apt/apt.conf.d/docker-clean \
+ && rm -f /var/cache/apt/archives/lock \
+ && echo 'Binary::apt::APT::Keep-Downloaded-Packages "true";' > /etc/apt/apt.conf.d/keep-cache \
+ && echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selections \
+ && apt-get update \
+ && apt-get install -y --no-install-recommends \
+      git ca-certificates \
+      latexmk biber \
+      texlive-luatex texlive-xetex \
+      texlive-latex-base texlive-latex-recommended texlive-latex-extra \
+      texlive-pictures texlive-science \
+      texlive-fonts-recommended texlive-fonts-extra \
+      texlive-plain-generic texlive-bibtex-extra \
+      texlive-lang-italian \
+      texlive-lang-cyrillic \
+      fonts-linuxlibertine fonts-inconsolata

@@ -1,0 +1,50 @@
+# ---- TeX build artefacts ----
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.xdv
+*.bbl
+*.auxlock
+*SAVE-ERROR
+LAM/LAM_Design_dei_filtri_analogici/cache/
+
+# ---- unoptimised PDFs: ~150 MB each, over GitHub's 100 MB file limit ----
+# (regenerate with latexmk; the *_optimized.pdf builds are what get published)
+LAM/LAM_Design_dei_filtri_analogici/LAM_Design_dei_filtri_analogici.pdf
+LAM/LAM_Design_dei_filtri_analogici/LAM_Design_dei_filtri_analogici_EN.pdf
+LAM/LAM_Design_dei_filtri_analogici/LAM_Design_dei_filtri_analogici_RU.pdf
+LAM/LAM_Design_dei_filtri_analogici/LAM_Design_dei_filtri_analogici_2022-original.pdf
+*.bak
+
+# ---- earlier paper iterations (kept locally only) ----
+LAM/LAM_Design_dei_filtri_analogici_old/
+LAM/LAM_Design_dei_filtri_analogici_old1/
+
+# ---- third-party copyrighted PDFs, kept locally (Elsevier set, MapleSoft guide, …) ----
+papers/
+
+# ---- devbox runtime home ----
+.devbox_home/
+
+# ---- redundant backup copies (kept locally) ----
+LAM/secondary/plots/Standalonebkp.pdf
+
+# ---- rebuildable build outputs (see README "Building the paper") ----
+LAM/secondary/**/*.pdf
+kicad/emg_sensor_board/sensor_board/sensor_board_pcb/plots/print/*.pdf
+# Infineon datasheet: component is in-circuit, the datasheet PDF itself is not included by the tex
+LAM/LAM_Design_dei_filtri_analogici/media/Infineon-IRFZ44N-DataSheet-v01_01-EN.pdf
+
+# ---- editor/Jupyter cruft ----
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
